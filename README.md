@@ -12,7 +12,7 @@ Installation
 To set up the Medical Chatbot, follow these steps:
 
 Clone the repository:
-git clone https://github.com/DeependraVerma/end-to-end-medical-chatbot-llama-2.git
+git clone https://github.com/AkashParashar18/generative-AI/end-to-end-medical-chatbot-llama-2.git
 Install the required dependencies:
 pip install -r requirements.txt
 Usage
