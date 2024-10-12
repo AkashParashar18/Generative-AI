@@ -37,7 +37,7 @@ Contributing
 Contributions to the Medical Chatbot are welcome! Please refer to the CONTRIBUTING.md for guidelines on how to contribute.
 
 Contact
-Developer: Deependra Verma
-Email: deependra.verma00@gmail.com
-Portfolio: Deependra's Data Science Portfolio
-Kaggle Profile: Deependra Verma on Kaggle
+Developer: Akash Ranjan Mund
+Email: mundakashranjan@gmail.com
+Portfolio: Akash's Data Science Portfolio
+Kaggle Profile: Akash Ranjan Mund on Kaggle
